@@ -2,6 +2,7 @@ README for Servo-controlled Light Display
 Test Footage 
 1. https://youtube.com/shorts/-noPtht5aYg?feature=shared
 2. https://youtu.be/d30xvyGQdjY?feature=shared
+
 This Arduino sketch controls a servo motor and an LED light display based on input from a Light Dependent Resistor (LDR) sensor and a button. The servo motor moves a light source in different patterns and modes, creating a dynamic light display.
 Features
 
